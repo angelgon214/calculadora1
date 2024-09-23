@@ -104,7 +104,7 @@ const SistemaEcuaciones = () => {
         <h2>Calculadora 1 Determinantes</h2>
 
         <div style={{ textAlign: "center" }}>
-          <h4>Jose Angel Gonzalez Santafe</h4>
+          <h4>Jose Angel Gonzalez Santafe | IDGS 11</h4>
         </div>
 
         <div className="input-group">
